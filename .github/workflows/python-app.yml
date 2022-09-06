@@ -25,5 +25,5 @@ jobs:
         python-version: "3.10"
     - name: Install dependencies
       run: |
-        python main.py 10 11 5 7 9 12
+        python main.py 10 
       
