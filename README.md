@@ -1,2 +1,2 @@
 # test
-print('Hello World')
+0_0 
